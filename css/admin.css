@@ -1,0 +1,194 @@
+.ctl-behance-importer-lite-documentation-container li{
+    margin-left: 30px;
+    list-style: disc;
+}
+
+
+.ctl-behance-importer-lite-img-guide{
+    cursor: pointer;
+}
+
+.ctl-behance-importer-lite-img-guide img{
+    width: 300px;
+}
+
+.ctl-behance-importer-lite-img-class-100{
+    width: 100% !important;
+}
+
+
+.ctl-behance-importer-lite-max-width-500{
+    max-width: 500px  
+}
+.ctl-behance-importer-lite-max-width-850{
+    max-width: 850px  
+}
+
+.toplevel_page_ctl-behance-importer-lite-settings > .dashicons-before:before{
+    content: '\e800';
+    font-family: ctl-behance-importer-lite-dingbats;
+    color: #4287ff !important;
+    font-size: 18px;
+}
+
+.wp-menu-open.toplevel_page_ctl-behance-importer-lite-settings > .dashicons-before:before{
+    color: #99beff !important;
+}
+
+.ctl-behance-importer-lite-admin-wrapper table.widefat{
+    margin-top: 0px;
+}
+
+.ctl-behance-importer-lite-admin-wrapper .wsal-tab th {
+    padding-left: 20px;
+}
+
+.ctl-behance-importer-lite-admin-wrapper .wsal-tab td {
+    padding-left: 20px;
+}
+
+.ctl-behance-importer-lite-admin-wrapper .column-work-image p{
+    display: none;
+}
+
+.ctl-behance-footer-copyright{
+    text-align: left;
+    margin-top: 30px;
+
+    font-size: 13px;
+    line-height: 20px;
+    color: #777;
+}
+
+.ctl-behance-importer-lite-red-disclaimer{
+    text-decoration: underline; 
+    color:#d00; 
+    font-size: 12px;
+}
+
+.mce-ctl-behance-importer-icon-behance i:before {
+    content: '\e814';
+}
+.mce-ctl-behance-importer-icon-briefcase i:before {
+    content: '\e820';
+}
+
+.mce-ctl-behance-importer-icon-behance i:before,
+.mce-ctl-behance-importer-icon-briefcase i:before {
+    color: #fff;
+    background-color: #1769ff;
+
+    font-size: 14px;
+    width: 20px;
+    height: 20px;
+    display: block;
+
+    font-family: ctl-behance-importer-dingbats;
+}
+
+.ctl-behance-importer-lite-work-preview-wrapper img{
+    max-width: 100%;
+}
+
+.ctl-behance-importer-lite-edit-gallery-work-filter{
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+}
+
+.ctl-behance-importer-lite-label-red{
+    color: #a00; 
+    cursor: auto;
+}
+
+.ctl-behance-importer-lite-admin-wrapper textarea.regular-text{
+    width: 25em;
+}
+
+.ctl-behance-importer-lite-admin-trademarks-wrapper p{
+    font-size: 11px;
+    font-style: italic;
+    margin: 0px;
+    color: #777;    
+}
+
+
+.ctl-behance-importer-lite-admin-trademarks-wrapper .trademarks{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.ctl-behance-importer-lite-list-tags{
+    max-width: 300px;
+    margin: 0px;
+}
+
+.ctl-behance-importer-lite-list-tags li{
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.ctl-behance-importer-lite-admin-wrapper .update-nag{
+    display: block;
+}
+
+@media screen and (max-width: 782px){
+    
+    .ctl-behance-importer-lite-admin-wrapper .wp-list-table tr:not(.inline-edit-row):not(.no-items) td:not(.column-primary)::before{
+        white-space: normal;
+    }
+    
+    .ctl-behance-importer-lite-admin-wrapper .wsal-tab th {
+        padding-left: 10px;
+    }
+
+    .ctl-behance-importer-lite-admin-wrapper .wsal-tab td {
+        padding-left: 10px;
+    }
+
+    .ctl-behance-importer-lite-admin-wrapper .column-work-image p{
+        display: block;
+    }
+
+}
+
+
+.ctl-behance-importer-lite-admin-wrapper .is-expanded > .column-work-image p{
+    display: none !important;
+}
+
+.manage-column .order-icons{
+    margin-top: 12px;
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.manage-column .order-icons .dashicons, 
+.manage-column .order-icons .dashicons-before:before{
+    width: 15px;
+    height: 15px;
+    font-size: 15px;
+}
+.ui-sortable tr{
+    cursor: move;
+}
+
+.ctl-behance-importer-lite-edit-gallery-archive-wrapper{
+    height: auto;
+    max-height: 200px;
+}
+
+.ui-sortable-placeholder{
+    background-color: #00a0d2 !important;
+}
+
+.ctl-behance-importer-lite-legenda-traffic-lights li{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.ctl-behance-importer-lite-legenda-traffic-lights li>img{
+    width: 16px;
+    margin-right: 5px;
+}

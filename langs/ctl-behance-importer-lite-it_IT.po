@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CTL Behance Importer\n"
+"POT-Creation-Date: 2016-09-12 10:48+0200\n"
+"PO-Revision-Date: 2016-09-12 10:48+0200\n"
+"Last-Translator: Code This Lab srl <support@codethislab.com>\n"
+"Language-Team: Code This Lab srl <support@codethislab.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ctl-behance-importer.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _p;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2;_v\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/CCTLBehanceImporter.php:44
+msgid "Settings have been saved."
+msgstr "Le impostazioni sono state salvate."
+
+#: classes/CCTLBehanceImporter.php:45
+msgid "No galleries in DB with this id!"
+msgstr "Non ci sono gallerie nel DB con questo id!"
+
+#: classes/CCTLBehanceImporter.php:46
+msgid "No works in DB with this id!"
+msgstr "Non ci sono lavori nel DB con questo id!"
+
+#: classes/CCTLBehanceImporter.php:47
+msgid "You have to cache the work before publishing it on the website!"
+msgstr "Devi inserire in cache il Lavoro prima di poterlo pubblicare sul sito!"
+
+#: classes/CCTLBehanceImporter.php:48
+msgid "To manage works and galleries, you have to set your"
+msgstr "Per gestire i lavori devi settare il tuo"
+
+#: classes/CCTLBehanceImporter.php:51
+msgid "plugin settings"
+msgstr "impostazioni del plugin"
+
+#: classes/CCTLBehanceImporter.php:51
+msgid "properly"
+msgstr "in maniera opportuna"
+
+#: classes/CCTLBehanceImporter.php:52
+msgid "All Works Deleted."
+msgstr "Tutti i lavori sono stati cancellati."
+
+#: classes/CCTLBehanceImporter.php:53
+msgid "Some Works Imported."
+msgstr "Alcuni lavori sono stati importati."
+
+#: classes/CCTLBehanceImporter.php:54
+msgid "All Works Imported."
+msgstr "Tutti i lavori sono stati importati."
+
+#: classes/CCTLBehanceImporter.php:55
+msgid "All Galleries Deleted."
+msgstr "Tutti le gallerie sono state cancellate."
+
+#: classes/CCTLBehanceImporter.php:56
+msgid "Gallery Deleted."
+msgstr "Galleria cancellata."
+
+#: classes/CCTLBehanceImporter.php:93 classes/CCTLBehanceImporter.php:955
+#: classes/CCTLBehanceImporter.php:1670 classes/CCTLBehanceImporter.php:1968
+#: classes/core/CCTLWpPlugin.php:82
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: classes/CCTLBehanceImporter.php:98 classes/CCTLBehanceImporter.php:964
+msgid "Works"
+msgstr "Lavori"
+
+#: classes/CCTLBehanceImporter.php:103 classes/CCTLBehanceImporter.php:973
+msgid "Galleries"
+msgstr "Gallerie"
+
+#: classes/CCTLBehanceImporter.php:314
+msgid "Digit some letters or choose a gallery from the list below"
+msgstr "Digitare alcune lettere o scegli una galleria dal seguente elenco"
+
+#: classes/CCTLBehanceImporter.php:349 classes/CCTLBehanceImporter.php:420
+msgid "Final shortcode"
+msgstr "Shortcode"
+
+#: classes/CCTLBehanceImporter.php:354
+msgid "Show gallery title"
+msgstr "Mostra il titolo della galleria"
+
+#: classes/CCTLBehanceImporter.php:355
+msgid "Show"
+msgstr "Mostra"
+
+#: classes/CCTLBehanceImporter.php:356
+msgid "Hide"
+msgstr "Nascondi"
+
+#: classes/CCTLBehanceImporter.php:360
+msgid "Popup Mode"
+msgstr "Tipo di popup"
+
+#: classes/CCTLBehanceImporter.php:361
+msgid "Summary"
+msgstr "Sommario"
+
+#: classes/CCTLBehanceImporter.php:362
+msgid "Full Content"
+msgstr "Contenuto completo"
+
+#: classes/CCTLBehanceImporter.php:366 classes/CCTLBehanceImporter.php:426
+msgid "Add"
+msgstr "Aggiungi"
+
+#: classes/CCTLBehanceImporter.php:367 classes/CCTLBehanceImporter.php:427
+msgid "Close"
+msgstr "Chiudi"
+
+#: classes/CCTLBehanceImporter.php:373
+msgid "You have to create a gallery before publishing it on the website!"
+msgstr "Devi creare una galleria prima di poterla pubblicare sul sito!"
+
+#: classes/CCTLBehanceImporter.php:393 classes/CCTLBehanceImporter.php:1834
+msgid "Digit some letters or choose a work from the list below"
+msgstr "Digita alcune lettere o seleziona il lavoro dalla lista"
+
+#: classes/CCTLBehanceImporter.php:433
+msgid ""
+"You have to import and cache works before publishing them on the website!"
+msgstr ""
+"Devi importare ed inserire in cache i lavori prima di poterli pubblicare sil "
+"sito!"
+
+#: classes/CCTLBehanceImporter.php:546 classes/CCTLBehanceImporter.php:2182
+msgid "Add Gallery of Works"
+msgstr "Aggiungi una Galleria di Lavori"
+
+#: classes/CCTLBehanceImporter.php:548 classes/CCTLBehanceImporter.php:2184
+msgid "Add Work"
+msgstr "Aggiungi un lavoro"
+
+#: classes/CCTLBehanceImporter.php:956 classes/CCTLBehanceImporter.php:964
+#: classes/CCTLBehanceImporter.php:1956
+msgid "Manage Works"
+msgstr "Gestisci Lavori"
+
+#: classes/CCTLBehanceImporter.php:957 classes/CCTLBehanceImporter.php:973
+#: classes/CCTLBehanceImporter.php:1660
+msgid "Manage Galleries"
+msgstr "Gestisci le Gallerie"
+
+#: classes/CCTLBehanceImporter.php:1243
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: classes/CCTLBehanceImporter.php:1268
+msgid "To get an API key, please login on"
+msgstr "Per ottenere un'API key, loggati su"
+
+#: classes/CCTLBehanceImporter.php:1268
+msgid "with your credentials."
+msgstr "con le tue credenziali."
+
+#: classes/CCTLBehanceImporter.php:1271
+msgid "Behance Username"
+msgstr "Behance Username"
+
+#: classes/CCTLBehanceImporter.php:1273
+msgid "Enter your Behance Username."
+msgstr "Digita il tuo Behance Username"
+
+#: classes/CCTLBehanceImporter.php:1276
+msgid "Gallery Layout"
+msgstr "Layout della Galleria"
+
+#: classes/CCTLBehanceImporter.php:1281
+msgid "title on hover"
+msgstr "titolo appare all'hover"
+
+#: classes/CCTLBehanceImporter.php:1285
+msgid "title visible"
+msgstr "titolo visibile"
+
+#: classes/CCTLBehanceImporter.php:1286
+msgid "Choose the layout that better fits with your theme."
+msgstr "Scegli il layout che si adatta meglio al tuo tema."
+
+#: classes/CCTLBehanceImporter.php:1295
+msgid "small"
+msgstr "piccola"
+
+#: classes/CCTLBehanceImporter.php:1299
+msgid "medium"
+msgstr "media"
+
+#: classes/CCTLBehanceImporter.php:1303
+msgid "large"
+msgstr "grande"
+
+#: classes/CCTLBehanceImporter.php:1304
+msgid "Choose the layout tiles size that better fits with your theme."
+msgstr ""
+"Scegli il layout degli elementi della galleria che si adatta meglio al tuo "
+"tema."
+
+#: classes/CCTLBehanceImporter.php:1310
+msgid "Insert gallery hover color in hexadecimal format (#000000)."
+msgstr ""
+"Scegli il colore dell'hover degli elementi della galleria in formato "
+"esadecimale (#000000)."
+
+#: classes/CCTLBehanceImporter.php:1315
+msgid "Insert gallery hover trasparency."
+msgstr "Seleziona la trasparenza dell'hover per gli elementi della galleria."
+
+#: classes/CCTLBehanceImporter.php:1320
+msgid "Insert gallery item padding (px)."
+msgstr "Inserisci il padding degli elementi della galleria (px)"
+
+#: classes/CCTLBehanceImporter.php:1326
+msgid "Override our css styles here."
+msgstr "Sostituisci il nostro css in questo riquadro."
+
+#: classes/CCTLBehanceImporter.php:1334
+msgid "Open work"
+msgstr "Apri il lavoro"
+
+#: classes/CCTLBehanceImporter.php:1335
+msgid ""
+"If you have created an article using the work shortcode previuosly, it will "
+"be reached by gallery item. Otherwise a popup will be opened."
+msgstr ""
+"Se hai creato un articolo usando su un lavoro importato dal plugin, la "
+"galleria in automatico si collegherà alla pagina. In mancanza dell'articolo "
+"potrà essere aperto un popup."
+
+#: classes/CCTLBehanceImporter.php:1338
+msgid "Remove DB"
+msgstr "Rimuovi DB"
+
+#: classes/CCTLBehanceImporter.php:1340
+msgid "Remove DB during plugin updates"
+msgstr "Rimuovi il DB durante gli aggiornamenti del plugin"
+
+#: classes/CCTLBehanceImporter.php:1341
+msgid ""
+"In case of plugin updates all your works, galleries and settings will be "
+"deleted."
+msgstr ""
+"In caso di aggiornamenti tutti i lavori, gallerie e impostazioni saranno "
+"cancellate."
+
+#: classes/CCTLBehanceImporter.php:1342
+msgid "To keep your DB leave this checkbox blank."
+msgstr "Per mantenere il tuo DB, lascia vuota questa casella."
+
+#: classes/CCTLBehanceImporter.php:1348 classes/CCTLBehanceImporter.php:1615
+msgid "Save Changes"
+msgstr "Salva le Modifiche"
+
+#: classes/CCTLBehanceImporter.php:1611
+msgid "Select All Works"
+msgstr "Seleziona tutti i lavori"
+
+#: classes/CCTLBehanceImporter.php:1613
+msgid "Clear All Works from the Gallery"
+msgstr "Elimina tutti i lavori dalla Galleria"
+
+#: classes/CCTLBehanceImporter.php:1617 classes/CCTLBehanceImporter.php:1943
+msgid "Back"
+msgstr "Indietro"
+
+#: classes/CCTLBehanceImporter.php:1625 classes/CCTLBehanceImporter.php:1677
+#: classes/CCTLBehanceImporter.php:1797
+msgid "Create Gallery"
+msgstr "Crea una galleria"
+
+#: classes/CCTLBehanceImporter.php:1627
+msgid "Delete Galleries"
+msgstr "Cancella le Gallerie"
+
+#: classes/CCTLBehanceImporter.php:1637
+msgid "Import Summary"
+msgstr "Importa il Sommario"
+
+#: classes/CCTLBehanceImporter.php:1640
+msgid "Import Work Data"
+msgstr "Importa i dati del Lavoro"
+
+#: classes/CCTLBehanceImporter.php:1643
+msgid "Import Work Images"
+msgstr "Importa le immagini del lavoro"
+
+#: classes/CCTLBehanceImporter.php:1646
+msgid "Delete Works"
+msgstr "Cancella i Lavori"
+
+#: classes/CCTLBehanceImporter.php:1674
+msgid "Create the First Gallery."
+msgstr "Crea la Prima Galleria."
+
+#: classes/CCTLBehanceImporter.php:1688
+msgid "Search by gallery name"
+msgstr "Filtra le gallerie con il nome"
+
+#: classes/CCTLBehanceImporter.php:1701 classes/CCTLBehanceImporter.php:1716
+msgid "Gallery Title"
+msgstr "Titolo della Galleria"
+
+#: classes/CCTLBehanceImporter.php:1704 classes/CCTLBehanceImporter.php:1732
+msgid "Gallery Works"
+msgstr "Gallerie di Lavori"
+
+#: classes/CCTLBehanceImporter.php:1720 classes/CCTLBehanceImporter.php:1727
+msgid "Edit"
+msgstr "Modifica"
+
+#: classes/CCTLBehanceImporter.php:1723 classes/CCTLBehanceImporter.php:2071
+msgid "Delete"
+msgstr "Cancella"
+
+#: classes/CCTLBehanceImporter.php:1799
+msgid "Edit Gallery"
+msgstr "Modifica la Galleria"
+
+#: classes/CCTLBehanceImporter.php:1821
+msgid "Gallery Name"
+msgstr "Nome della Galleria"
+
+#: classes/CCTLBehanceImporter.php:1874
+msgid "In this list you'll find only full cached works."
+msgstr "In questa lista troverai solo lavori inseriti in cache."
+
+#: classes/CCTLBehanceImporter.php:1898 classes/CCTLBehanceImporter.php:2226
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: classes/CCTLBehanceImporter.php:1900 classes/CCTLBehanceImporter.php:2228
+msgid "Move up"
+msgstr "Sposta sopra"
+
+#: classes/CCTLBehanceImporter.php:1901 classes/CCTLBehanceImporter.php:2230
+msgid "Move down"
+msgstr "Sposta in basso"
+
+#: classes/CCTLBehanceImporter.php:1914
+msgid "Drag every project up or down to change the showing order"
+msgstr ""
+"Trascinare ogni progetto su o giù per modificare l'ordine di visualizzazione"
+
+#: classes/CCTLBehanceImporter.php:1972
+msgid "To Import your Works click on Import button."
+msgstr "Per importare i tuoi Lavori fare clic sul pulsante Importa."
+
+#: classes/CCTLBehanceImporter.php:1976
+msgid "Import or Update Summary"
+msgstr "Importa o Aggiorna Sommario"
+
+#: classes/CCTLBehanceImporter.php:1987
+msgid "Number of Works"
+msgstr "Numero di Lavori"
+
+#: classes/CCTLBehanceImporter.php:1997
+msgid "Legenda"
+msgstr "Legenda"
+
+#: classes/CCTLBehanceImporter.php:2001
+msgid "Only work name imported"
+msgstr "Sono stati importati solo i nomi dei lavori"
+
+#: classes/CCTLBehanceImporter.php:2002
+msgid "Images not imported yet"
+msgstr "Le immagini non sono state importate ancora"
+
+#: classes/CCTLBehanceImporter.php:2003
+msgid "Ready to be published"
+msgstr "Pronto per essere pubblicato"
+
+#: classes/CCTLBehanceImporter.php:2009
+msgid "Search by Work Name"
+msgstr "Filtra i lavori con il nome"
+
+#: classes/CCTLBehanceImporter.php:2022
+msgid "Work Name"
+msgstr "Nome del Lavoro"
+
+#: classes/CCTLBehanceImporter.php:2025 classes/CCTLBehanceImporter.php:2080
+msgid "Behance User"
+msgstr "Utente Behance"
+
+#: classes/CCTLBehanceImporter.php:2028 classes/CCTLBehanceImporter.php:2084
+msgid "State"
+msgstr "Stato"
+
+#: classes/CCTLBehanceImporter.php:2031 classes/CCTLBehanceImporter.php:2107
+msgid "Categories"
+msgstr "Categorie"
+
+#: classes/CCTLBehanceImporter.php:2034 classes/CCTLBehanceImporter.php:2117
+msgid "Tags"
+msgstr "Tags"
+
+#: classes/CCTLBehanceImporter.php:2037
+msgid "Work Cover"
+msgstr "Copertina"
+
+#: classes/CCTLBehanceImporter.php:2051
+msgid "Work Title"
+msgstr "Titolo"
+
+#: classes/CCTLBehanceImporter.php:2056
+msgid "View"
+msgstr "Visualizza"
+
+#: classes/CCTLBehanceImporter.php:2062
+msgid "Cache"
+msgstr "Cache"
+
+#: classes/CCTLBehanceImporter.php:2132
+msgid "Work Image"
+msgstr "Immagine"
+
+#: classes/CCTLBehanceImporter.php:2183
+msgid "To Add a Gallery switch the editor to Visual Mode"
+msgstr "Per aggiungere una Galleria, setta l'editor in Visual Mode"
+
+#: classes/CCTLBehanceImporter.php:2185
+msgid "To Add a Work switch the editor to Visual Mode"
+msgstr "Per aggiungere un Lavoro, setta l'editor in Visual Mode"
+
+#: classes/CCTLBehanceImporter.php:2187 classes/CCTLBehanceImporter.php:2218
+msgid "Ooops! Something Went Wrong!"
+msgstr "Ooops! Qualcosa è andato storto!"
+
+#: classes/CCTLBehanceImporter.php:2189 classes/CCTLBehanceImporter.php:2204
+msgid "Loading"
+msgstr "Caricamento"
+
+#: classes/CCTLBehanceImporter.php:2191
+msgid ""
+"DO NOT REMOVE THIS SHORTCODE! WE NEED IT TO LINK THIS POST TO A GALLERY THAT "
+"INCLUDE THIS WORK. THIS SHORTCODE WILL NOT APPEAR IN THE POST"
+msgstr ""
+"NON RIMUOVERE QUESTO SHORTCODE! NE ABBIAMO BISOGNO PER LINKARE QUESTO POST "
+"ALLE GALLERIE CHE INCLUDONO QUESTO LAVORO. QUESTO SHORTCODE NON APPARIRÀ NEL "
+"POST"
+
+#: classes/CCTLBehanceImporter.php:2202
+msgid "Are you sure to delete the work from db? This action isn't reversible!"
+msgstr ""
+"Se sicuro di cancellare il lavoro dal DB? Questa azione non è reversibile!"
+
+#: classes/CCTLBehanceImporter.php:2206
+msgid "Stop"
+msgstr "Stop"
+
+#: classes/CCTLBehanceImporter.php:2208
+msgid "Import"
+msgstr "Importa"
+
+#: classes/CCTLBehanceImporter.php:2210
+msgid ""
+"Are you sure to delete all works from db? This action isn't reversible and "
+"all galleries will be lost!"
+msgstr ""
+"Sei sicuro di voler eliminare tutti i Lavori dal DB? Questa azione non è "
+"reversibile e tutte le gallerie saranno perse!"
+
+#: classes/CCTLBehanceImporter.php:2212
+msgid ""
+"Are you sure to delete all galleries from db? This action isn't reversible!"
+msgstr ""
+"Se sicuro di cancellare tutte le gallerie dal DB? Questa azione non è "
+"reversibile!"
+
+#: classes/CCTLBehanceImporter.php:2214
+msgid "Caching Images for Work"
+msgstr "Caching delle immagini del lavoro"
+
+#: classes/CCTLBehanceImporter.php:2216
+msgid "Loading Next Work"
+msgstr "Carica il prossimo lavoro"
+
+#: classes/CCTLBehanceImporter.php:2220
+msgid "Getting summary, page"
+msgstr "Scarico il sommario, pagina"
+
+#: classes/CCTLBehanceImporter.php:2222
+msgid "Loading Next Page"
+msgstr "Carica la prossima pagina"
+
+#: classes/CCTLBehanceImporter.php:2224
+msgid "Please type a name for the gallery"
+msgstr "Digitare un nome per la Galleria"
+
+#: classes/CCTLBehanceImporter.php:2232
+msgid ""
+"Are you sure to delete the gallery from db? This action isn't reversible!"
+msgstr ""
+"Sei sicuro di voler eliminare la galleria da db? Questa azione non è "
+"reversibile!"
+
+#: classes/core/CCTLWpPlugin.php:87 classes/core/CCTLWpPlugin.php:135
+#: classes/core/CCTLWpPlugin.php:307
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: classes/core/CCTLWpPlugin.php:90
+msgid "About us"
+msgstr "Chi siamo"
+
+#: classes/core/CCTLWpPlugin.php:140 classes/core/CCTLWpPlugin.php:376
+msgid "About Us"
+msgstr "Chi siamo"
+
+#: classes/core/CCTLWpPlugin.php:145
+msgid "CTL Plugins"
+msgstr "CTL Plugins"
+
+#: classes/core/CCTLWpPlugin.php:367
+msgid "Hide this notice."
+msgstr "Nascondi il messaggio."
+
+#: classes/core/CCTLWpPlugin.php:420
+msgid "Write something useful..."
+msgstr "Scrivi qualcosa di utile..."
+
+#. Plugin Name of the plugin/theme
+msgid "CTL Behance Importer"
+msgstr "CTL Behance Importer"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.codethislab.com/"
+msgstr "http://www.codethislab.com/"
+
+#. Description of the plugin/theme
+msgid "Behance Importer Wordpress Plugin"
+msgstr "Behance Importer Wordpress Plugin"
+
+#. Author of the plugin/theme
+msgid "Code This Lab srl"
+msgstr "Code This Lab srl"
+
+#~ msgid "Ooops! Something Went Wrong"
+#~ msgstr "Ooops! Qualcosa è andato storto"

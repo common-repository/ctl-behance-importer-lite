@@ -1,0 +1,116 @@
+.ctl-behance-importer-lite-shortcode-wrapper{
+    padding: 15px !important;
+}
+
+.ctl-behance-importer-lite-shortcode-wrapper label{
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 5px;
+    display: block;
+    white-space: normal;
+}
+
+.ctl-behance-importer-lite-shortcode-wrapper label,
+.ctl-behance-importer-lite-shortcode-wrapper textarea,
+.ctl-behance-importer-lite-shortcode-wrapper input[type="text"]{
+    display: block;
+}
+
+.ctl-behance-importer-lite-shortcode-wrapper label,
+.ctl-behance-importer-lite-shortcode-wrapper textarea,
+.ctl-behance-importer-lite-shortcode-wrapper input[type="text"],
+.ctl-behance-importer-lite-shortcode-wrapper input[type="radio"]{
+    margin-bottom: 10px;
+}
+
+.ctl-behance-importer-lite-shortcode-wrapper label,
+.ctl-behance-importer-lite-shortcode-wrapper textarea,
+.ctl-behance-importer-lite-shortcode-wrapper input[type="text"] {
+    width: 100%;
+}
+
+.ctl-behance-importer-lite-shortcode-btn-wrapper{
+    border-top: 1px solid #ddd !important;
+    padding-top: 10px !important;
+    margin-top: 10px !important;
+}
+
+.ctl-behance-importer-lite-shortcode-btn-wrapper .button-primary,
+.ctl-behance-importer-lite-shortcode-btn-radio-wrapper span {
+    margin-right: 5px;
+}
+
+.ctl-behance-importer-lite-shortcode-btn-wrapper .button-primary:last-child,
+.ctl-behance-importer-lite-shortcode-btn-radio-wrapper span:last-child{
+    margin-right: 0px;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper{
+    height: 100px !important;
+    background-color: #fff !important;
+    overflow-y: scroll;
+    margin-bottom: 10px !important;
+    font-size: 14px !important;
+    border: 1px solid #ddd !important;
+    width: 100% !important;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper ul{
+    padding: 0px !important;
+    margin: 0px;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper li{
+    list-style: none;
+    padding: 5px;
+    padding-left: 35px;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper li,
+.ctl-behance-importer-lite-shortcode-wrapper textarea{
+    font-size: 13px;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper li:hover,
+.ctl-behance-importer-lite-shortcode-work-list-wrapper li:active,
+.ctl-behance-importer-lite-shortcode-work-list-wrapper-li-selected{
+    background-color: #00a0d2 !important;
+    color: #fff !important;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper img{
+    width: 20px;
+    position: absolute;
+    top: 6px;
+    left: 10px;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper strong{
+    color: #00a0d2;
+}
+
+.ctl-behance-importer-lite-shortcode-work-list-wrapper li:hover strong,
+.ctl-behance-importer-lite-shortcode-work-list-wrapper li:active strong,
+.ctl-behance-importer-lite-shortcode-work-list-wrapper-li-selected strong{
+    color: #ff0;
+}
+
+
+.ctl-behance-importer-lite-shortcode-gallery-list-wrapper img{
+    width: 25px;
+    position: relative;
+    top:auto;
+    left: auto;
+    margin-top: 10px;
+}
+
+.ctl-behance-importer-lite-shortcode-gallery-list-wrapper li{
+    padding-left: 5px;
+}
+
+.ctl-behance-importer-lite-shortcode-gallery-list-wrapper li>span{
+    display: block;
+}
